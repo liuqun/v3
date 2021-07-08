@@ -1,0 +1,7 @@
+{
+  "name": "v3",
+  "version": "1.0.0",
+  "description": "vue3的demo项目",
+  "main": "src/main.js",
+  "license": "AGPL-3.0-or-later",
+}
